@@ -1,7 +1,6 @@
 ---
 title: "Tom Wheeler"
 image: "website.jpg"
-theme: postcards.css
 links:
   - label: LinkedIn
     url: "https://linkedin.com/in/thomaswheeler94"
