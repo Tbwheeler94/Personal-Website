@@ -1,0 +1,15 @@
+---
+title: "Tom Wheeler"
+image: "website.jpg"
+links:
+  - label: LinkedIn
+    url: "https://linkedin.com/in/thomaswheeler94"
+  - label: GitHub
+    url: "https://github.com/Tbwheeler94"
+  - label: Email
+    url: "mailto:tbwheeler@bren.ucsb.edu"
+output:
+  postcards::jolla
+---
+ 
+Graduate Student Researcher at the Bren School for Environmental Science & Management.
