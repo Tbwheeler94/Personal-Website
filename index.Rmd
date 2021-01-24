@@ -1,6 +1,6 @@
 ---
 title: "Tom Wheeler"
-image: "website.jpg"
+image: "website.JPG"
 links:
   - label: LinkedIn
     url: "https://linkedin.com/in/thomaswheeler94"
