@@ -10,6 +10,5 @@ navbar:
     - text: "About"
       href: about.html
     - text: "Tobi"
-      theme: postcards.css
 site: distill::distill_website
 output: distill::distill_article
