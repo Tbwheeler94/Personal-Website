@@ -9,9 +9,9 @@ links:
     url: "https://github.com/Tbwheeler94"
   - label: Email
     url: "mailto:tbwheeler@bren.ucsb.edu"
+site: distill::distill_website
 output:
   postcards::jolla
-site: distill::distill_website
 ---
  
 Graduate Student Researcher at the Bren School for Environmental Science & Management.
