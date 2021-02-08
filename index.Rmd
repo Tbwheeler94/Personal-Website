@@ -13,4 +13,4 @@ output:
   postcards::jolla
 ---
  
-Graduate Student Researcher at the Bren School for Environmental Science & Management.
+Currently a Master's student at the Bren School for Environmental Science & Management at University of California, Santa Barbara. I'm interested in using insights unlocked from data to bridge environmental and business goals in marine and energy contexts.
