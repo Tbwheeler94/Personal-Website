@@ -1,7 +1,7 @@
 name: "."
-title: "mfeo"
+title: "TW"
 description: |
-  mfeo
+  TW
 output_dir: "docs"
 navbar:
   right:
@@ -11,9 +11,7 @@ navbar:
       href: about.html
     - text: "CV"
       href: CV.html
-    - text: "Portfolio"
-      href: portfolio.html
-    - text: "Blog"
+    - text: "Recent Projects"
       href: blog.html
 
 theme: postcards.css
