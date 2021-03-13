@@ -1,0 +1,16 @@
+---
+title: "CV"
+author: "Tom Wheeler"
+date: "3/13/2021"
+output: html_document
+---
+
+```{r echo = FALSE, message=FALSE, include=FALSE}
+library(knitr)
+library(tidyverse)
+```
+
+
+```{r echo = FALSE, message=FALSE, fig.align='center', fig.pos='H', out.width = "800px", out.height = "1100px"}
+knitr::include_graphics("./resume.pdf")
+```
